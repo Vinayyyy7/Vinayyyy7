@@ -5,7 +5,7 @@
 
 - ✨ AI/ML — Architecting MLLMs, Fine-Tuning, Data-Engineering.
 - 🔍 Theoretical Physics & Philosophy — Exploring Structure, Consciousness, Governing Ideology.
-- 🪶 Poetry & Language — Poems, Mostly in English, a few in Hindi — Records of Love, Silence, and Time, which I Am Olivious to.
+- 🪶 Poetry & Language — Poems, Mostly in English, a few in Hindi — Records of Love, Silence, and Time, which I Am Oblivious to.
 - 🔮 Psyche — Mapping Human Inner Architectures through Intuition and Clashing into Different Ideologies.
 
 ### 🌚 My Principles
