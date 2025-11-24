@@ -1,7 +1,7 @@
 ## Heyyy! I work across code, cognition, and creation.
 
 <p align="center">
-  <img src="https://github.com/Vinayyyy7/Vinayyyy7/blob/main/assets/00002.png" alt="Profile" width="750"/>
+  <img src="https://github.com/Vinayyyy7/Vinayyyy7/blob/main/assets/00002.png" alt="Profile" width="550"/>
 </p>
 
 ### 🎨 Domains Of My Work & Thinking
