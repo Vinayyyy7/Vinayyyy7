@@ -20,3 +20,24 @@
  
 - **Building Omni MLLMs That Can Talk, See, Hear & Sculpt 3D Mesh.**
 
+## The Stack
+
+### AI & Data Science
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,c,cpp" />
+</div>
+
+### Frontend & Design
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite,threejs" />
+</div>
+
+### Backend & Infrastructure
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,supabase,git,docker,aws" />
+</div>
+
+### Tools & Creative
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=blender,latex,windows,selenium" />
+</div>
